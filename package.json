@@ -1,0 +1,27 @@
+{
+  "name": "react-native-ripple-spread",
+  "version": "1.0.0",
+  "description": "react-native 基于Animated的波纹效果",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dknightlx/react-native-ripple-spread.git"
+  },
+  "keywords": [
+    "react-native",
+    "animated",
+    "ripple",
+    "波纹",
+    "涟漪",
+    "spread"
+  ],
+  "author": "DK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dknightlx/react-native-ripple-spread/issues"
+  },
+  "homepage": "https://github.com/dknightlx/react-native-ripple-spread#readme"
+}
